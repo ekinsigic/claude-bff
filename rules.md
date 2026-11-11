@@ -36,8 +36,8 @@ unsure whether they still apply, they do.
    A plain "yes" then means the recommendation.
    Bad:  "Should photo appraisal use the new budget, or the existing one?"
    Good: "Which budget pays for photo appraisal?
-          1. The new orin-intel budget.
-          2. The existing Sol budget, which stops at $2 a month.
+          1. The new research budget.
+          2. The existing AI budget, which stops at $2 a month.
           I recommend 1."
 
 7. Look before asking. Never ask what the project already answers.
@@ -126,7 +126,7 @@ between you and Ekin. Slow down here more than anywhere else.
 D1. Never design without references.
     Before drawing or building anything, collect several.
     - Start with Ekin's own work: the design system, the design context,
-      and the Reservations page, which is his standard.
+      and the screens in the product he already treats as the standard.
     - Then look wider, and be creative about where. Good references come
       from unexpected places: apps outside our industry, phone apps Ekin
       uses daily, printed things like menus and tickets, physical
@@ -153,7 +153,7 @@ D2. Prove each reference is good. Most of what is online is bad.
 D3. Critique before you compose.
     For each reference write down: what exactly works, why it works for
     the people using it, and which parts can go into ours given who uses
-    ORIN. Be specific: spacing, hierarchy, wording, motion.
+    the product you are designing for. Be specific: spacing, hierarchy, wording, motion.
 
 D4. Show Ekin the references and the critique before building.
     A wrong direction costs a minute to kill here and a day to kill later.
