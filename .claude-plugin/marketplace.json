@@ -1,0 +1,12 @@
+{
+  "name": "ekin-rules",
+  "description": "Ekin's own rules for Claude, kept on this Mac.",
+  "owner": { "name": "Ekin" },
+  "plugins": [
+    {
+      "name": "ekin-rules",
+      "description": "How Claude replies to and works with Ekin.",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ekin-rules",
+  "version": "0.1.1",
+  "description": "How Claude replies to and works with Ekin. Hands the rules to Claude at the start of every session, and a short reminder with every message.",
+  "author": { "name": "Ekin" }
+}
