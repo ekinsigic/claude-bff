@@ -1,10 +1,10 @@
 {
-  "name": "ekin-rules",
+  "name": "claude-bff",
   "description": "Ekin's own rules for Claude, kept on this Mac.",
   "owner": { "name": "Ekin" },
   "plugins": [
     {
-      "name": "ekin-rules",
+      "name": "claude-bff",
       "description": "How Claude replies to and works with Ekin.",
       "source": "./"
     }
