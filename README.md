@@ -1,13 +1,13 @@
 # claude-bff
 
-A Claude Code plugin that holds Ekin's rules for how Claude replies and works.
+A Claude Code plugin that holds the user's rules for how Claude replies and works.
 Built 2026-11-11.
 
 ## What it does
 
 - At the start of every session (and after a resume, a clear or a compaction)
   Claude Code hands `rules.md` to Claude.
-- With every message Ekin sends, Claude Code hands `reminder.txt` to Claude.
+- With every message the user sends, Claude Code hands `reminder.txt` to Claude.
 - With every message, `hooks/context-size.sh` also measures how full the
   conversation is. Once it passes 500,000 tokens it tells Claude the number,
   so Claude can suggest compacting or handing over to a new session. Claude
@@ -34,7 +34,7 @@ Then start a new session.
 
 ## Installing from scratch
 
-    claude plugin marketplace add /Users/ekinsigic/Lab/claude-bff
+    claude plugin marketplace add /path/to/claude-bff
     claude plugin install claude-bff@claude-bff
 
 ## Turning it off

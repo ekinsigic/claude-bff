@@ -1,6 +1,6 @@
 {
   "name": "claude-bff",
-  "version": "0.3.0",
-  "description": "How Claude replies to and works with Ekin. Hands the rules to Claude at the start of every session, and a short reminder with every message.",
+  "version": "0.4.0",
+  "description": "How Claude replies to and works with the user. Hands the rules to Claude at the start of every session, and a short reminder with every message.",
   "author": { "name": "Ekin" }
 }
